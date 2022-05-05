@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jeffnk05
-- 👀 I’m interested in Frontend Development 
+- 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning Frontend Development and Spring Boot
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
