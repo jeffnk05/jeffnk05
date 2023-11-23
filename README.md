@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeffnk05
 - 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Vue.js and Spring Boot
+- 🌱 I’m currently learning Svelte and Flask
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
